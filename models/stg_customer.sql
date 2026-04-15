@@ -3,4 +3,4 @@ SELECT
     name,
     city,
     updated_at
-FROM customer.raw.raw_customer
+FROM customer.raw.raw_customer;
